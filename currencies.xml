@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<USD>
+	<symbol>$</symbol>
+	<name>US Dollar</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>USD</code>
+	<name_plural>US dollars</name_plural>
+</USD>
+<CAD>
+	<symbol>CA$</symbol>
+	<name>Canadian Dollar</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>CAD</code>
+	<name_plural>Canadian dollars</name_plural>
+</CAD>
+<EUR>
+	<symbol>€</symbol>
+	<name>Euro</name>
+	<symbol_native>€</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>EUR</code>
+	<name_plural>euros</name_plural>
+</EUR>
+<AED>
+	<symbol>AED</symbol>
+	<name>United Arab Emirates Dirham</name>
+	<symbol_native>د.إ.‏</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>AED</code>
+	<name_plural>UAE dirhams</name_plural>
+</AED>
+<AFN>
+	<symbol>Af</symbol>
+	<name>Afghan Afghani</name>
+	<symbol_native>؋</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>AFN</code>
+	<name_plural>Afghan Afghanis</name_plural>
+</AFN>
+<ALL>
+	<symbol>ALL</symbol>
+	<name>Albanian Lek</name>
+	<symbol_native>Lek</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>ALL</code>
+	<name_plural>Albanian lekë</name_plural>
+</ALL>
+<AMD>
+	<symbol>AMD</symbol>
+	<name>Armenian Dram</name>
+	<symbol_native>դր.</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>AMD</code>
+	<name_plural>Armenian drams</name_plural>
+</AMD>
+<ARS>
+	<symbol>AR$</symbol>
+	<name>Argentine Peso</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>ARS</code>
+	<name_plural>Argentine pesos</name_plural>
+</ARS>
+<AUD>
+	<symbol>AU$</symbol>
+	<name>Australian Dollar</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>AUD</code>
+	<name_plural>Australian dollars</name_plural>
+</AUD>
+<AZN>
+	<symbol>man.</symbol>
+	<name>Azerbaijani Manat</name>
+	<symbol_native>ман.</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>AZN</code>
+	<name_plural>Azerbaijani manats</name_plural>
+</AZN>
+<BAM>
+	<symbol>KM</symbol>
+	<name>Bosnia-Herzegovina Convertible Mark</name>
+	<symbol_native>KM</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>BAM</code>
+	<name_plural>Bosnia-Herzegovina convertible marks</name_plural>
+</BAM>
+<BDT>
+	<symbol>Tk</symbol>
+	<name>Bangladeshi Taka</name>
+	<symbol_native>৳</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>BDT</code>
+	<name_plural>Bangladeshi takas</name_plural>
+</BDT>
+<BGN>
+	<symbol>BGN</symbol>
+	<name>Bulgarian Lev</name>
+	<symbol_native>лв.</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>BGN</code>
+	<name_plural>Bulgarian leva</name_plural>
+</BGN>
+<BHD>
+	<symbol>BD</symbol>
+	<name>Bahraini Dinar</name>
+	<symbol_native>د.ب.‏</symbol_native>
+	<decimal_digits>3</decimal_digits>
+	<rounding>0</rounding>
+	<code>BHD</code>
+	<name_plural>Bahraini dinars</name_plural>
+</BHD>
+<BIF>
+	<symbol>FBu</symbol>
+	<name>Burundian Franc</name>
+	<symbol_native>FBu</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>BIF</code>
+	<name_plural>Burundian francs</name_plural>
+</BIF>
+<BND>
+	<symbol>BN$</symbol>
+	<name>Brunei Dollar</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>BND</code>
+	<name_plural>Brunei dollars</name_plural>
+</BND>
+<BOB>
+	<symbol>Bs</symbol>
+	<name>Bolivian Boliviano</name>
+	<symbol_native>Bs</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>BOB</code>
+	<name_plural>Bolivian bolivianos</name_plural>
+</BOB>
+<BRL>
+	<symbol>R$</symbol>
+	<name>Brazilian Real</name>
+	<symbol_native>R$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>BRL</code>
+	<name_plural>Brazilian reals</name_plural>
+</BRL>
+<BWP>
+	<symbol>BWP</symbol>
+	<name>Botswanan Pula</name>
+	<symbol_native>P</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>BWP</code>
+	<name_plural>Botswanan pulas</name_plural>
+</BWP>
+<BYR>
+	<symbol>BYR</symbol>
+	<name>Belarusian Ruble</name>
+	<symbol_native>BYR</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>BYR</code>
+	<name_plural>Belarusian rubles</name_plural>
+</BYR>
+<BZD>
+	<symbol>BZ$</symbol>
+	<name>Belize Dollar</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>BZD</code>
+	<name_plural>Belize dollars</name_plural>
+</BZD>
+<CDF>
+	<symbol>CDF</symbol>
+	<name>Congolese Franc</name>
+	<symbol_native>FrCD</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>CDF</code>
+	<name_plural>Congolese francs</name_plural>
+</CDF>
+<CHF>
+	<symbol>CHF</symbol>
+	<name>Swiss Franc</name>
+	<symbol_native>CHF</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0.05</rounding>
+	<code>CHF</code>
+	<name_plural>Swiss francs</name_plural>
+</CHF>
+<CLP>
+	<symbol>CL$</symbol>
+	<name>Chilean Peso</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>CLP</code>
+	<name_plural>Chilean pesos</name_plural>
+</CLP>
+<CNY>
+	<symbol>CN¥</symbol>
+	<name>Chinese Yuan</name>
+	<symbol_native>CN¥</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>CNY</code>
+	<name_plural>Chinese yuan</name_plural>
+</CNY>
+<COP>
+	<symbol>CO$</symbol>
+	<name>Colombian Peso</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>COP</code>
+	<name_plural>Colombian pesos</name_plural>
+</COP>
+<CRC>
+	<symbol>₡</symbol>
+	<name>Costa Rican Colón</name>
+	<symbol_native>₡</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>CRC</code>
+	<name_plural>Costa Rican colóns</name_plural>
+</CRC>
+<CVE>
+	<symbol>CV$</symbol>
+	<name>Cape Verdean Escudo</name>
+	<symbol_native>CV$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>CVE</code>
+	<name_plural>Cape Verdean escudos</name_plural>
+</CVE>
+<CZK>
+	<symbol>Kč</symbol>
+	<name>Czech Republic Koruna</name>
+	<symbol_native>Kč</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>CZK</code>
+	<name_plural>Czech Republic korunas</name_plural>
+</CZK>
+<DJF>
+	<symbol>Fdj</symbol>
+	<name>Djiboutian Franc</name>
+	<symbol_native>Fdj</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>DJF</code>
+	<name_plural>Djiboutian francs</name_plural>
+</DJF>
+<DKK>
+	<symbol>Dkr</symbol>
+	<name>Danish Krone</name>
+	<symbol_native>kr</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>DKK</code>
+	<name_plural>Danish kroner</name_plural>
+</DKK>
+<DOP>
+	<symbol>RD$</symbol>
+	<name>Dominican Peso</name>
+	<symbol_native>RD$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>DOP</code>
+	<name_plural>Dominican pesos</name_plural>
+</DOP>
+<DZD>
+	<symbol>DA</symbol>
+	<name>Algerian Dinar</name>
+	<symbol_native>د.ج.‏</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>DZD</code>
+	<name_plural>Algerian dinars</name_plural>
+</DZD>
+<EEK>
+	<symbol>Ekr</symbol>
+	<name>Estonian Kroon</name>
+	<symbol_native>kr</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>EEK</code>
+	<name_plural>Estonian kroons</name_plural>
+</EEK>
+<EGP>
+	<symbol>EGP</symbol>
+	<name>Egyptian Pound</name>
+	<symbol_native>ج.م.‏</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>EGP</code>
+	<name_plural>Egyptian pounds</name_plural>
+</EGP>
+<ERN>
+	<symbol>Nfk</symbol>
+	<name>Eritrean Nakfa</name>
+	<symbol_native>Nfk</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>ERN</code>
+	<name_plural>Eritrean nakfas</name_plural>
+</ERN>
+<ETB>
+	<symbol>Br</symbol>
+	<name>Ethiopian Birr</name>
+	<symbol_native>Br</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>ETB</code>
+	<name_plural>Ethiopian birrs</name_plural>
+</ETB>
+<GBP>
+	<symbol>£</symbol>
+	<name>British Pound Sterling</name>
+	<symbol_native>£</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>GBP</code>
+	<name_plural>British pounds sterling</name_plural>
+</GBP>
+<GEL>
+	<symbol>GEL</symbol>
+	<name>Georgian Lari</name>
+	<symbol_native>GEL</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>GEL</code>
+	<name_plural>Georgian laris</name_plural>
+</GEL>
+<GHS>
+	<symbol>GH₵</symbol>
+	<name>Ghanaian Cedi</name>
+	<symbol_native>GH₵</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>GHS</code>
+	<name_plural>Ghanaian cedis</name_plural>
+</GHS>
+<GNF>
+	<symbol>FG</symbol>
+	<name>Guinean Franc</name>
+	<symbol_native>FG</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>GNF</code>
+	<name_plural>Guinean francs</name_plural>
+</GNF>
+<GTQ>
+	<symbol>GTQ</symbol>
+	<name>Guatemalan Quetzal</name>
+	<symbol_native>Q</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>GTQ</code>
+	<name_plural>Guatemalan quetzals</name_plural>
+</GTQ>
+<HKD>
+	<symbol>HK$</symbol>
+	<name>Hong Kong Dollar</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>HKD</code>
+	<name_plural>Hong Kong dollars</name_plural>
+</HKD>
+<HNL>
+	<symbol>HNL</symbol>
+	<name>Honduran Lempira</name>
+	<symbol_native>L</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>HNL</code>
+	<name_plural>Honduran lempiras</name_plural>
+</HNL>
+<HRK>
+	<symbol>kn</symbol>
+	<name>Croatian Kuna</name>
+	<symbol_native>kn</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>HRK</code>
+	<name_plural>Croatian kunas</name_plural>
+</HRK>
+<HUF>
+	<symbol>Ft</symbol>
+	<name>Hungarian Forint</name>
+	<symbol_native>Ft</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>HUF</code>
+	<name_plural>Hungarian forints</name_plural>
+</HUF>
+<IDR>
+	<symbol>Rp</symbol>
+	<name>Indonesian Rupiah</name>
+	<symbol_native>Rp</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>IDR</code>
+	<name_plural>Indonesian rupiahs</name_plural>
+</IDR>
+<ILS>
+	<symbol>₪</symbol>
+	<name>Israeli New Sheqel</name>
+	<symbol_native>₪</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>ILS</code>
+	<name_plural>Israeli new sheqels</name_plural>
+</ILS>
+<INR>
+	<symbol>Rs</symbol>
+	<name>Indian Rupee</name>
+	<symbol_native>₹</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>INR</code>
+	<name_plural>Indian rupees</name_plural>
+</INR>
+<IQD>
+	<symbol>IQD</symbol>
+	<name>Iraqi Dinar</name>
+	<symbol_native>د.ع.‏</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>IQD</code>
+	<name_plural>Iraqi dinars</name_plural>
+</IQD>
+<IRR>
+	<symbol>IRR</symbol>
+	<name>Iranian Rial</name>
+	<symbol_native>﷼</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>IRR</code>
+	<name_plural>Iranian rials</name_plural>
+</IRR>
+<ISK>
+	<symbol>Ikr</symbol>
+	<name>Icelandic Króna</name>
+	<symbol_native>kr</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>ISK</code>
+	<name_plural>Icelandic krónur</name_plural>
+</ISK>
+<JMD>
+	<symbol>J$</symbol>
+	<name>Jamaican Dollar</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>JMD</code>
+	<name_plural>Jamaican dollars</name_plural>
+</JMD>
+<JOD>
+	<symbol>JD</symbol>
+	<name>Jordanian Dinar</name>
+	<symbol_native>د.أ.‏</symbol_native>
+	<decimal_digits>3</decimal_digits>
+	<rounding>0</rounding>
+	<code>JOD</code>
+	<name_plural>Jordanian dinars</name_plural>
+</JOD>
+<JPY>
+	<symbol>¥</symbol>
+	<name>Japanese Yen</name>
+	<symbol_native>￥</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>JPY</code>
+	<name_plural>Japanese yen</name_plural>
+</JPY>
+<KES>
+	<symbol>Ksh</symbol>
+	<name>Kenyan Shilling</name>
+	<symbol_native>Ksh</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>KES</code>
+	<name_plural>Kenyan shillings</name_plural>
+</KES>
+<KHR>
+	<symbol>KHR</symbol>
+	<name>Cambodian Riel</name>
+	<symbol_native>៛</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>KHR</code>
+	<name_plural>Cambodian riels</name_plural>
+</KHR>
+<KMF>
+	<symbol>CF</symbol>
+	<name>Comorian Franc</name>
+	<symbol_native>FC</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>KMF</code>
+	<name_plural>Comorian francs</name_plural>
+</KMF>
+<KRW>
+	<symbol>₩</symbol>
+	<name>South Korean Won</name>
+	<symbol_native>₩</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>KRW</code>
+	<name_plural>South Korean won</name_plural>
+</KRW>
+<KWD>
+	<symbol>KD</symbol>
+	<name>Kuwaiti Dinar</name>
+	<symbol_native>د.ك.‏</symbol_native>
+	<decimal_digits>3</decimal_digits>
+	<rounding>0</rounding>
+	<code>KWD</code>
+	<name_plural>Kuwaiti dinars</name_plural>
+</KWD>
+<KZT>
+	<symbol>KZT</symbol>
+	<name>Kazakhstani Tenge</name>
+	<symbol_native>тңг.</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>KZT</code>
+	<name_plural>Kazakhstani tenges</name_plural>
+</KZT>
+<LBP>
+	<symbol>LB£</symbol>
+	<name>Lebanese Pound</name>
+	<symbol_native>ل.ل.‏</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>LBP</code>
+	<name_plural>Lebanese pounds</name_plural>
+</LBP>
+<LKR>
+	<symbol>SLRs</symbol>
+	<name>Sri Lankan Rupee</name>
+	<symbol_native>SL Re</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>LKR</code>
+	<name_plural>Sri Lankan rupees</name_plural>
+</LKR>
+<LTL>
+	<symbol>Lt</symbol>
+	<name>Lithuanian Litas</name>
+	<symbol_native>Lt</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>LTL</code>
+	<name_plural>Lithuanian litai</name_plural>
+</LTL>
+<LVL>
+	<symbol>Ls</symbol>
+	<name>Latvian Lats</name>
+	<symbol_native>Ls</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>LVL</code>
+	<name_plural>Latvian lati</name_plural>
+</LVL>
+<LYD>
+	<symbol>LD</symbol>
+	<name>Libyan Dinar</name>
+	<symbol_native>د.ل.‏</symbol_native>
+	<decimal_digits>3</decimal_digits>
+	<rounding>0</rounding>
+	<code>LYD</code>
+	<name_plural>Libyan dinars</name_plural>
+</LYD>
+<MAD>
+	<symbol>MAD</symbol>
+	<name>Moroccan Dirham</name>
+	<symbol_native>د.م.‏</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>MAD</code>
+	<name_plural>Moroccan dirhams</name_plural>
+</MAD>
+<MDL>
+	<symbol>MDL</symbol>
+	<name>Moldovan Leu</name>
+	<symbol_native>MDL</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>MDL</code>
+	<name_plural>Moldovan lei</name_plural>
+</MDL>
+<MGA>
+	<symbol>MGA</symbol>
+	<name>Malagasy Ariary</name>
+	<symbol_native>MGA</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>MGA</code>
+	<name_plural>Malagasy Ariaries</name_plural>
+</MGA>
+<MKD>
+	<symbol>MKD</symbol>
+	<name>Macedonian Denar</name>
+	<symbol_native>MKD</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>MKD</code>
+	<name_plural>Macedonian denari</name_plural>
+</MKD>
+<MMK>
+	<symbol>MMK</symbol>
+	<name>Myanma Kyat</name>
+	<symbol_native>K</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>MMK</code>
+	<name_plural>Myanma kyats</name_plural>
+</MMK>
+<MOP>
+	<symbol>MOP$</symbol>
+	<name>Macanese Pataca</name>
+	<symbol_native>MOP$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>MOP</code>
+	<name_plural>Macanese patacas</name_plural>
+</MOP>
+<MUR>
+	<symbol>MURs</symbol>
+	<name>Mauritian Rupee</name>
+	<symbol_native>MURs</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>MUR</code>
+	<name_plural>Mauritian rupees</name_plural>
+</MUR>
+<MXN>
+	<symbol>MX$</symbol>
+	<name>Mexican Peso</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>MXN</code>
+	<name_plural>Mexican pesos</name_plural>
+</MXN>
+<MYR>
+	<symbol>RM</symbol>
+	<name>Malaysian Ringgit</name>
+	<symbol_native>RM</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>MYR</code>
+	<name_plural>Malaysian ringgits</name_plural>
+</MYR>
+<MZN>
+	<symbol>MTn</symbol>
+	<name>Mozambican Metical</name>
+	<symbol_native>MTn</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>MZN</code>
+	<name_plural>Mozambican meticals</name_plural>
+</MZN>
+<NAD>
+	<symbol>N$</symbol>
+	<name>Namibian Dollar</name>
+	<symbol_native>N$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>NAD</code>
+	<name_plural>Namibian dollars</name_plural>
+</NAD>
+<NGN>
+	<symbol>₦</symbol>
+	<name>Nigerian Naira</name>
+	<symbol_native>₦</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>NGN</code>
+	<name_plural>Nigerian nairas</name_plural>
+</NGN>
+<NIO>
+	<symbol>C$</symbol>
+	<name>Nicaraguan Córdoba</name>
+	<symbol_native>C$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>NIO</code>
+	<name_plural>Nicaraguan córdobas</name_plural>
+</NIO>
+<NOK>
+	<symbol>Nkr</symbol>
+	<name>Norwegian Krone</name>
+	<symbol_native>kr</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>NOK</code>
+	<name_plural>Norwegian kroner</name_plural>
+</NOK>
+<NPR>
+	<symbol>NPRs</symbol>
+	<name>Nepalese Rupee</name>
+	<symbol_native>नेरू</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>NPR</code>
+	<name_plural>Nepalese rupees</name_plural>
+</NPR>
+<NZD>
+	<symbol>NZ$</symbol>
+	<name>New Zealand Dollar</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>NZD</code>
+	<name_plural>New Zealand dollars</name_plural>
+</NZD>
+<OMR>
+	<symbol>OMR</symbol>
+	<name>Omani Rial</name>
+	<symbol_native>ر.ع.‏</symbol_native>
+	<decimal_digits>3</decimal_digits>
+	<rounding>0</rounding>
+	<code>OMR</code>
+	<name_plural>Omani rials</name_plural>
+</OMR>
+<PAB>
+	<symbol>B/.</symbol>
+	<name>Panamanian Balboa</name>
+	<symbol_native>B/.</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>PAB</code>
+	<name_plural>Panamanian balboas</name_plural>
+</PAB>
+<PEN>
+	<symbol>S/.</symbol>
+	<name>Peruvian Nuevo Sol</name>
+	<symbol_native>S/.</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>PEN</code>
+	<name_plural>Peruvian nuevos soles</name_plural>
+</PEN>
+<PHP>
+	<symbol>₱</symbol>
+	<name>Philippine Peso</name>
+	<symbol_native>₱</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>PHP</code>
+	<name_plural>Philippine pesos</name_plural>
+</PHP>
+<PKR>
+	<symbol>PKRs</symbol>
+	<name>Pakistani Rupee</name>
+	<symbol_native>₨</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>PKR</code>
+	<name_plural>Pakistani rupees</name_plural>
+</PKR>
+<PLN>
+	<symbol>zł</symbol>
+	<name>Polish Zloty</name>
+	<symbol_native>zł</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>PLN</code>
+	<name_plural>Polish zlotys</name_plural>
+</PLN>
+<PYG>
+	<symbol>₲</symbol>
+	<name>Paraguayan Guarani</name>
+	<symbol_native>₲</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>PYG</code>
+	<name_plural>Paraguayan guaranis</name_plural>
+</PYG>
+<QAR>
+	<symbol>QR</symbol>
+	<name>Qatari Rial</name>
+	<symbol_native>ر.ق.‏</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>QAR</code>
+	<name_plural>Qatari rials</name_plural>
+</QAR>
+<RON>
+	<symbol>RON</symbol>
+	<name>Romanian Leu</name>
+	<symbol_native>RON</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>RON</code>
+	<name_plural>Romanian lei</name_plural>
+</RON>
+<RSD>
+	<symbol>din.</symbol>
+	<name>Serbian Dinar</name>
+	<symbol_native>дин.</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>RSD</code>
+	<name_plural>Serbian dinars</name_plural>
+</RSD>
+<RUB>
+	<symbol>RUB</symbol>
+	<name>Russian Ruble</name>
+	<symbol_native>руб.</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>RUB</code>
+	<name_plural>Russian rubles</name_plural>
+</RUB>
+<RWF>
+	<symbol>RWF</symbol>
+	<name>Rwandan Franc</name>
+	<symbol_native>FR</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>RWF</code>
+	<name_plural>Rwandan francs</name_plural>
+</RWF>
+<SAR>
+	<symbol>SR</symbol>
+	<name>Saudi Riyal</name>
+	<symbol_native>ر.س.‏</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>SAR</code>
+	<name_plural>Saudi riyals</name_plural>
+</SAR>
+<SDG>
+	<symbol>SDG</symbol>
+	<name>Sudanese Pound</name>
+	<symbol_native>SDG</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>SDG</code>
+	<name_plural>Sudanese pounds</name_plural>
+</SDG>
+<SEK>
+	<symbol>Skr</symbol>
+	<name>Swedish Krona</name>
+	<symbol_native>kr</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>SEK</code>
+	<name_plural>Swedish kronor</name_plural>
+</SEK>
+<SGD>
+	<symbol>S$</symbol>
+	<name>Singapore Dollar</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>SGD</code>
+	<name_plural>Singapore dollars</name_plural>
+</SGD>
+<SOS>
+	<symbol>Ssh</symbol>
+	<name>Somali Shilling</name>
+	<symbol_native>Ssh</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>SOS</code>
+	<name_plural>Somali shillings</name_plural>
+</SOS>
+<SYP>
+	<symbol>SY£</symbol>
+	<name>Syrian Pound</name>
+	<symbol_native>ل.س.‏</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>SYP</code>
+	<name_plural>Syrian pounds</name_plural>
+</SYP>
+<THB>
+	<symbol>฿</symbol>
+	<name>Thai Baht</name>
+	<symbol_native>฿</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>THB</code>
+	<name_plural>Thai baht</name_plural>
+</THB>
+<TND>
+	<symbol>DT</symbol>
+	<name>Tunisian Dinar</name>
+	<symbol_native>د.ت.‏</symbol_native>
+	<decimal_digits>3</decimal_digits>
+	<rounding>0</rounding>
+	<code>TND</code>
+	<name_plural>Tunisian dinars</name_plural>
+</TND>
+<TOP>
+	<symbol>T$</symbol>
+	<name>Tongan Paʻanga</name>
+	<symbol_native>T$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>TOP</code>
+	<name_plural>Tongan paʻanga</name_plural>
+</TOP>
+<TRY>
+	<symbol>TL</symbol>
+	<name>Turkish Lira</name>
+	<symbol_native>TL</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>TRY</code>
+	<name_plural>Turkish Lira</name_plural>
+</TRY>
+<TTD>
+	<symbol>TT$</symbol>
+	<name>Trinidad and Tobago Dollar</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>TTD</code>
+	<name_plural>Trinidad and Tobago dollars</name_plural>
+</TTD>
+<TWD>
+	<symbol>NT$</symbol>
+	<name>New Taiwan Dollar</name>
+	<symbol_native>NT$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>TWD</code>
+	<name_plural>New Taiwan dollars</name_plural>
+</TWD>
+<TZS>
+	<symbol>TSh</symbol>
+	<name>Tanzanian Shilling</name>
+	<symbol_native>TSh</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>TZS</code>
+	<name_plural>Tanzanian shillings</name_plural>
+</TZS>
+<UAH>
+	<symbol>₴</symbol>
+	<name>Ukrainian Hryvnia</name>
+	<symbol_native>₴</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>UAH</code>
+	<name_plural>Ukrainian hryvnias</name_plural>
+</UAH>
+<UGX>
+	<symbol>USh</symbol>
+	<name>Ugandan Shilling</name>
+	<symbol_native>USh</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>UGX</code>
+	<name_plural>Ugandan shillings</name_plural>
+</UGX>
+<UYU>
+	<symbol>$U</symbol>
+	<name>Uruguayan Peso</name>
+	<symbol_native>$</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>UYU</code>
+	<name_plural>Uruguayan pesos</name_plural>
+</UYU>
+<UZS>
+	<symbol>UZS</symbol>
+	<name>Uzbekistan Som</name>
+	<symbol_native>UZS</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>UZS</code>
+	<name_plural>Uzbekistan som</name_plural>
+</UZS>
+<VEF>
+	<symbol>Bs.F.</symbol>
+	<name>Venezuelan Bolívar</name>
+	<symbol_native>Bs.F.</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>VEF</code>
+	<name_plural>Venezuelan bolívars</name_plural>
+</VEF>
+<VND>
+	<symbol>₫</symbol>
+	<name>Vietnamese Dong</name>
+	<symbol_native>₫</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>VND</code>
+	<name_plural>Vietnamese dong</name_plural>
+</VND>
+<XAF>
+	<symbol>FCFA</symbol>
+	<name>CFA Franc BEAC</name>
+	<symbol_native>FCFA</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>XAF</code>
+	<name_plural>CFA francs BEAC</name_plural>
+</XAF>
+<XOF>
+	<symbol>CFA</symbol>
+	<name>CFA Franc BCEAO</name>
+	<symbol_native>CFA</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>XOF</code>
+	<name_plural>CFA francs BCEAO</name_plural>
+</XOF>
+<YER>
+	<symbol>YR</symbol>
+	<name>Yemeni Rial</name>
+	<symbol_native>ر.ي.‏</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>YER</code>
+	<name_plural>Yemeni rials</name_plural>
+</YER>
+<ZAR>
+	<symbol>R</symbol>
+	<name>South African Rand</name>
+	<symbol_native>R</symbol_native>
+	<decimal_digits>2</decimal_digits>
+	<rounding>0</rounding>
+	<code>ZAR</code>
+	<name_plural>South African rand</name_plural>
+</ZAR>
+<ZMK>
+	<symbol>ZK</symbol>
+	<name>Zambian Kwacha</name>
+	<symbol_native>ZK</symbol_native>
+	<decimal_digits>0</decimal_digits>
+	<rounding>0</rounding>
+	<code>ZMK</code>
+	<name_plural>Zambian kwachas</name_plural>
+</ZMK>
+
+
